@@ -13,5 +13,4 @@ The primary goal of this project is to classify SMS messages into two categories
 ## Screenshot
 ![SMS Spam Classifier Screensho](SMS spam classifier
 /Screenshot 2023-11-17 124814.png)
-![SMS Spam Classifier Screenshot](SMS spam classifier
-/Screenshot 2023-11-17 125207.png)
+![SMS Spam Classifier Screenshot](SMS-spam-classifier/blob/main/Screenshot%202023-11-17%20124814.png)
