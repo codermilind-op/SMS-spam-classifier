@@ -9,6 +9,3 @@ The primary goal of this project is to classify SMS messages into two categories
 2. **Processing:** The text message undergoes preprocessing, including tokenization, stemming, and vectorization.
 3. **Prediction:** The machine learning model predicts whether the message is spam or not.
 4. **Output:** The result is displayed, indicating whether the message is classified as "Spam" or "Not Spam."
-
-
-![SMS Spam Classifier Screenshot](Screenshot 2023-11-17 124814.png)
