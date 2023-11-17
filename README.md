@@ -11,7 +11,7 @@ The primary goal of this project is to classify SMS messages into two categories
 4. **Output:** The result is displayed, indicating whether the message is classified as "Spam" or "Not Spam."
 
 ## Screenshot
-![SMS Spam Classifier Screensho](SMS-spam-classifier
+![SMS Spam Classifier Screensho](SMS spam classifier
 /Screenshot 2023-11-17 124814.png)
-![SMS Spam Classifier Screenshot](SMS-spam-classifier
+![SMS Spam Classifier Screenshot](SMS spam classifier
 /Screenshot 2023-11-17 125207.png)
